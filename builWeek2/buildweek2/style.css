@@ -1,0 +1,17 @@
+.navbar-logo {
+    width: 92px;
+} 
+
+.drop-down{
+    bottom: 100px;
+}
+
+.movie-still {
+    width: 250px;
+    height: 140px;
+}
+
+.position-relative{
+    display:flex;
+}
+
